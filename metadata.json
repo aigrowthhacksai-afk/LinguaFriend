@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LinguaFriend Coach",
+  "description": "An encouraging bilingual English-coach chatbot that helps you practice with friendly corrections and translations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
